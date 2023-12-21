@@ -1,12 +1,6 @@
-# cesium-js-samples
+# Cesium Examples
 ![maintenance-status](https://img.shields.io/badge/maintenance-deprecated-red.svg)
 
-### Check the updated examples [here](https://docs.maptiler.com/cesium/)
+![MapTiler - Maps for developers](https://raw.githubusercontent.com/maptiler/.github/main/profile/assets/maptiler.jpg)
 
-MapTiler code samples for Cesium JS
-
-:warning: you will need to replace **YOUR_MAPTILER_API_KEY_HERE** with your own MapTiler API key.
-
-Your MapTiler account access key is on your MapTiler [Cloud](https://cloud.maptiler.com/account/keys/) account page. 
-
-:information_source: If you don't have an API key, you can [create it for **FREE**](https://cloud.maptiler.com/start)
+Please check the updated MapTiler [Cesium examples](https://docs.maptiler.com/cesium/) on how to create maps with Cesium.
